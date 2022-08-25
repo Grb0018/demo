@@ -66,3 +66,13 @@ body {
       text-align: left;
     }
   }
+
+@media only screen and (max-width: 500px) {
+body video{
+    width: 116vw;
+    height: 291px;
+    left: -31px;
+    position: relative;
+    margin: 0px auto;
+    user-select: none;}
+}
